@@ -10,7 +10,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-      "ejs": "^2.6.1"
+      "ejs": "2.6.1"
   },
   "license": "MIT"
 }
